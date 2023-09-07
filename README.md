@@ -1,6 +1,6 @@
 - 👋 Oy, my name is Nathan!
 - 👩‍💻 Coding is really hard but incredibly rewarding.
-- 🤔 Im currently building a react app with react bootstrap
+- 🤔 Im currently building a dashboard UI with react
 - 🤝 Feel free to reach out to me for anything!
 - Linkedin: https://www.linkedin.com/in/nathan-moehlmann-557431246/
 - Gmail: nathan.moehlmann@gmail.com
